@@ -1,18 +1,18 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(10,10,10);
+    background-image: url(Begron.jpeg);
     color: rgb(240,240,240);
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 100vw;
+    width: 99vw;
     font-family: Verdana, Tahoma, sans-serif;
 }
 
 header {
-    width: 95%;
-    max-width: 788px;
+    width: 100%;
+    max-width: 720px;
     display: flex;
     justify-content: flex-end;
     padding: 12px;
@@ -42,8 +42,8 @@ header {
 }
 
 h1 {
-    font-size: 20px;
-    margin-bottom: 30px;
+    font-size: 30px;
+    margin-bottom: 10px;
 }
 
 a {
